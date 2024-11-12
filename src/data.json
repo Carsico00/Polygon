@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Jaime Cantante",
+      "author": "johnti60",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Musica Nueva",
+      "author": "maria90",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "Retro Vibes",
+      "author": "vintagelover",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Synthwave Dreams",
+      "author": "electrosynth",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Classics",
+      "author": "jazzyjane",
+      "imageUrl": "https://via.placeholder.com/150"
+    }
+  ]

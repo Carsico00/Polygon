@@ -1,0 +1,8 @@
+.body {
+    background-color: #0A0B14;
+    flex: 1 1;
+    min-height: 100vh;
+}
+.main-content{
+    padding-inline: 25px;
+}
