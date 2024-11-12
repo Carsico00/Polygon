@@ -7,7 +7,11 @@
   height: 40px !important;
   margin-right: 16px !important;
 }
-
+.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.toolbar.css-awgou1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 .navbar-links {
   display: flex !important;
   flex-grow: 1 !important;
