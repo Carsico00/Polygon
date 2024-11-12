@@ -30,18 +30,19 @@ const NavbarComponent: React.FC = () => {
       className="drawer-list"
     >
       <List className="drawer-list-items">
-        <ListItemButton className="drawer-list-item">
-          <ListItemText primary="Link 1" />
+      <ListItemButton className="drawer-list-item">
+          <ListItemText primary="Home" />
         </ListItemButton>
         <ListItemButton className="drawer-list-item">
-          <ListItemText primary="Link 2" />
+          <ListItemText primary="Favoritos" />
         </ListItemButton>
         <ListItemButton className="drawer-list-item">
-          <ListItemText primary="Botón 1" />
+          <ListItemText primary="Descubrir" />
         </ListItemButton>
         <ListItemButton className="drawer-list-item">
-          <ListItemText primary="Botón 2" />
+          <ListItemText primary="Subir Obra" />
         </ListItemButton>
+      
       </List>
     </Box>
   );

@@ -12,6 +12,10 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorRight.css-y7ab46-MuiPaper-root-MuiDrawer-paper {
+  background: #0a0b14;
+  color: aliceblue;
+}
 .navbar-links {
   display: flex !important;
   flex-grow: 1 !important;
